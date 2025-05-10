@@ -32,10 +32,10 @@ Then, add the following line and save the file.
 0 12 * * * /path/to/backup.sh   # daily at 12:00
 ```
 
-<p align="center"
+<p align="center">
   <img src="sc1.png">
 </p>
 
-<p align="center"
+<p align="center">
   <img src="sc2.png">
 </p>
